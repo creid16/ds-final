@@ -215,7 +215,6 @@ expect %>%
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-library(tidyverse)
 library(magick)
 library(magrittr)
 
