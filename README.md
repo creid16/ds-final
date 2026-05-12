@@ -1,7 +1,7 @@
 # Predictive Analytics: Soccer Performance Data and All-SEC Honors
 
 **Author:** Caleb Reid  
-**Course:** Data Science Final Paper  
+**Course:** Data Science for Economists  
 **Date:** May 12, 2025
 
 ## Overview
